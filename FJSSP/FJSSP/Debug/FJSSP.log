@@ -1,0 +1,8 @@
+﻿  funcoesOp.c
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(166,28): warning C4098: 'MostraTodasOperacoes': função 'void' retornando um valor
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(187,14): warning C4133: 'função': tipos incompatíveis - de 'ListaOperacoes *' para 'ListaMaquinaa *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(185,1): warning C4133: 'inicializando': tipos incompatíveis - de 'ListaMaquinaa *' para 'ListaOperacoes *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(269,29): warning C4047: 'return': 'int' difere em níveis de indireção de 'void *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(294,29): warning C4047: 'return': 'int' difere em níveis de indireção de 'void *'
+C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\FJSSP\funcoesOp.c(332,9): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+  FJSSP.vcxproj -> C:\Users\luisa\OneDrive\Ambiente de Trabalho\,\trabalhos\UNIVERSIDADE\PROGRAMAÇÂO AVANÇADA\FJSSP\Debug\FJSSP.exe
